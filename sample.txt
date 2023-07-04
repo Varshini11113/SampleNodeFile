@@ -8,3 +8,13 @@ setTimeOut -- different ways (global.setTimeOut (or) setTimeOut)
 setTimeOut -- runs only once after certain interval
 
 setInterval -- runs repeatedly after certain interval
+
+
+control + spaceBar -- suggestions
+mkdir - make directory
+rmdir - remove directory 
+      - only remove the file when the directory is empty
+      - to delete the directory even whem file exits (recursive = true)
+readFile - to read the content in a file
+writeFile - to create a new file (if exists overRide)
+unlink - to delete a file (it deletes the link of the file created)
