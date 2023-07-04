@@ -1,1 +1,10 @@
 "Tresina Fernando"
+
+browser function's global object -- Window, document 
+node function's global object -- global (default object in node)
+
+setTimeOut -- different ways (global.setTimeOut (or) setTimeOut)
+
+setTimeOut -- runs only once after certain interval
+
+setInterval -- runs repeatedly after certain interval
